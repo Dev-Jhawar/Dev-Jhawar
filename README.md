@@ -1,7 +1,7 @@
 <h1> Hi, I’m Dev Jhawar 👋
-</h1><hr>
-- 👀 I'm a passionate MERN Stack Developer with expertise in React and Node JS.
-
+</h1>
+I'm a passionate MERN Stack Developer with expertise in React and Node JS.
+<h2>About ME</h2>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
