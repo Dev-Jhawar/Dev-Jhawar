@@ -7,7 +7,8 @@ I'm a passionate MERN Stack Developer with expertise in React and Node JS.
 - 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.<br>
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.<br>
 
-Visit my portfolio for a detailed overview of my projects and skills: Portfolio
+Visit my portfolio for a detailed overview of my projects and skills: <br>
+<a href="https://dev-jhawar-portfolio.netlify.app">Portfolio</a>
 
 <!---
 
