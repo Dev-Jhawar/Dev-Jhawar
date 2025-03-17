@@ -3,8 +3,8 @@
 I'm a passionate Software Developer with expertise in MERN Stack and Java.
 <h2>About Me</h2>
 
-- 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.<br>
-- 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.<br>
+- 🌱 Currently, I'm diving deep into the world of web development, focusing on React and Node JS.<br>
+- 💻 Actively practicing and refining coding skills, particularly in implementing Express framework .<br>
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.<br>
 
 Visit my portfolio for a detailed overview of my projects and skills: <br>
