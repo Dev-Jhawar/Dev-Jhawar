@@ -1,6 +1,6 @@
 <h1> Hi, I’m Dev Jhawar 👋
 </h1>
-I'm a passionate MERN Stack Developer with expertise in React and Node JS.
+I'm a passionate Software Developer with expertise in MERN Stack and Java.
 <h2>About Me</h2>
 
 - 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.<br>
