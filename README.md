@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @Dev-Jhawar
+<h1> Hi, I’m Dev Jhawar 👋
 </h1><hr>
 - 👀 I'm a passionate MERN Stack Developer with expertise in React and Node JS.
 
