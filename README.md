@@ -3,9 +3,9 @@
 I'm a passionate MERN Stack Developer with expertise in React and Node JS.
 <h2>About Me</h2>
 
-🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.
-💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.
-📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
+- 🌱 Currently, I'm diving deep into the world of web development, focusing on HTML, CSS, and JavaScript.<br>
+- 💻 Actively practicing and refining coding skills, particularly in implementing JavaScript and React Framework.<br>
+- 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.<br>
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
