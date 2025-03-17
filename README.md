@@ -11,7 +11,7 @@ Visit my portfolio for a detailed overview of my projects and skills: <br>
 <a href="https://dev-jhawar-portfolio.netlify.app"  target="_blank">Portfolio</a><br>
 
 Social Media 📡:
-Join me on <a href=""  target="_blank">Linkedlin</a><br>
+Join me on <a href="https://www.linkedin.com/in/dev-jhawar-in1"  target="_blank">Linkedlin</a><br>
 
 <!---
 
