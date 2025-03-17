@@ -10,8 +10,8 @@ I'm a passionate Software Developer with expertise in MERN Stack and Java.
 Visit my portfolio for a detailed overview of my projects and skills: <br>
 <a href="https://dev-jhawar-portfolio.netlify.app"  target="_blank">Portfolio</a><br>
 
-Social Media 📡:
-Join me on <a href="https://www.linkedin.com/in/dev-jhawar-in1"  target="_blank">Linkedlin</a><br>
+Social Media 📡:<br>
+Join me on <a href="https://www.linkedin.com/in/dev-jhawar-in1"  target="_blank"> Linkedlin</a><br>
 
 <!---
 
