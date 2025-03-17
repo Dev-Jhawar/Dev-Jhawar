@@ -7,8 +7,8 @@ I'm a passionate Software Developer with expertise in MERN Stack and Java.
 - 💻 Actively practicing and refining coding skills, particularly in implementing Express framework.<br>
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.<br>
 
-Visit my portfolio for a detailed overview of my projects and skills: <br>
-<a href="https://dev-jhawar-portfolio.netlify.app"  target="_blank">Portfolio</a><br>
+Visit my portfolio for a detailed overview of my projects and skills:
+<a href="https://dev-jhawar-portfolio.netlify.app"  target="_blank"><pre> Portfolio</pre></a><br>
 
 Social Media 📡:<br>
 Join me on <a href="https://www.linkedin.com/in/dev-jhawar-in1"  target="_blank"> Linkedlin</a><br>
